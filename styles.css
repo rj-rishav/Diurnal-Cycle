@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(43, 42, 44);
+    overflow: hidden;
+}
+button{
+    background-color: transparent;
+    border: 3px solid;
+    color: white;
+    font-size: 1.7rem;
+    padding: 10px 20px;
+    transform: translate(45vw, 80vh);
+    border-radius: 5px;
+}
+img{
+    position: absolute;
+    height: 200px;
+    transform: translate(43vw,20vh);
+}
+.themes{
+    transform: translate(75vw);
+    color: white;
+}
+
+
